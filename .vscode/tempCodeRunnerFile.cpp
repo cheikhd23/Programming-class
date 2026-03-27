@@ -1,0 +1,1 @@
+(-b+sqrt(soustraction))/2*a;
